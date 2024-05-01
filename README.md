@@ -10,4 +10,6 @@ Aplikasi ini dibangun menggunakan bahasa pemrograman PHP untuk logika backend da
 3. **View**: Folder `views/` berisi file-file PHP yang berfungsi sebagai tampilan halaman web. Halaman-halaman ini menampilkan informasi anggota dan posting, serta form untuk menambah, mengedit, atau menghapus entitas.
 4. **Bootstrap**: Aplikasi menggunakan Bootstrap CSS untuk desain tampilan yang responsif dan menarik.
 
-Dokumentasi 
+## Dokumentasi 
+https://drive.google.com/file/d/1SzIqC5evYojtp-7mq5chMiIdTRdbl2B8/view?usp=sharing
+(note: maaf kang ada backsound lagunya t__t)
